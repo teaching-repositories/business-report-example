@@ -1,4 +1,4 @@
-# Business Report Example with Python Notebook
+# Business Report Project - Example
 
 Welcome to our GitHub repository! This repository demonstrates how to use a Python notebook (Jupyter Notebook) to create a comprehensive and interactive business report. We guide you through the step-by-step process of creating such a report, which includes data analysis, data visualization, report writing, and presenting results in a readable and professional format.
 
